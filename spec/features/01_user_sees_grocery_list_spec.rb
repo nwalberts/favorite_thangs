@@ -21,6 +21,6 @@ feature "user sees a list of favorite things" do
     end
     visit "/"
 
-    expect(page).to_not have_content("friendship")
+    expect(page).to have_content("friendship")
   end
 end
