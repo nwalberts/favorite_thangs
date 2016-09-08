@@ -34,4 +34,5 @@ Our app should satisfy the following requirements:
 
 Edit: Recommended Lessons
 [News Aggregator](https://learn.launchacademy.com/lessons/news-aggregator)
+
 [Acceptance Testing Pickled Beets](https://learn.launchacademy.com/teams/admins/curricula/onsite/lesson_groups/on_campus:_week_3/lessons/acceptance-testing-pickled-beets)
