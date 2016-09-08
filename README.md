@@ -31,3 +31,7 @@ Our app should satisfy the following requirements:
 ### System Check Review Suggestions
 
 [D-Rod's System Check Review Gitst](https://gist.github.com/davidrf/25b22c189a2efab0091b9d1ac7a8a16d)
+
+Edit: Recommended Lessons
+[News Aggregator](https://learn.launchacademy.com/lessons/news-aggregator)
+[Acceptance Testing Pickled Beets](https://learn.launchacademy.com/teams/admins/curricula/onsite/lesson_groups/on_campus:_week_3/lessons/acceptance-testing-pickled-beets)
