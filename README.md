@@ -1,4 +1,6 @@
-## System Check Two Notes
+## System Check Review Three: HTTP & Sinatra
+
+_Much credit should be given to former EEs David Rodriguez Fuentes & Elise Fitzgerald for this repo!_
 
 ### Learning Goals
 * Generate a dynamic web page in response to a `GET` request.
@@ -21,8 +23,8 @@ Our app should satisfy the following requirements:
 
 ## To use this as a practice:
 
-* Run this in your terminal: `git clone https://github.com/EliseFitz15/launcher-favorites-list.git`
-* Then go into the directory `cd launcher-favorites-list`
+* Run this in your terminal: `git clone https://github.com/nwalberts/favorite_thangs`
+* Then go into the directory `cd favorite-thangs`
 * `bundle` then `rspec`
 * Work through the test errors
 
